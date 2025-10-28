@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mab-abdulbari
-- 👀 I’m interested in Cloud Computing Concepts & Operating Cloud Platforms using Cloud-Based Services(AWS,AZURE,GCP)
-- 🌱 I’m currently learning AWS Cloud Practitioner,Azure Fundamentals,GCP & SAP BTP
+- 👀 I’m interested in SAP S/4HANA Tech & SAP BTP.
+- 🌱 I’m currently learning SAP CPI & ABAP RAP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/mohdabdulbari,bari.mohd45@gmail.com,+91 7093987768
 
